@@ -1,36 +1,58 @@
-# HODLOK E-commerce Platform
+# HODLOK Web Development Challenge
 
 ## Overview
-This project is a feature-rich e-commerce platform for HODLOK, a sustainable clothing brand. The platform focuses on enhancing user experience, security, and incorporating innovative functionalities.
+Welcome to the HODLOK Web Development Challenge! This challenge is designed to test your skills in developing a fully functional e-commerce webpage for a sustainable clothing brand. You will need to use the design assets provided in the "assets" folder and implement key features to create a professional, user-friendly online store. We encourage creativity in how you execute the design and functionality.
 
-## Project Structure
-- **docs/**: Documentation including project plan, market research, and design specifications.
-- **src/**: Source code for the front-end and back-end development.
-  - **index.html**: Entry point for the web application.
-  - **styles.css**: Stylesheet for the web application.
-  - **app.js**: JavaScript file for the web application.
-- **assets/**: Assets such as images and logos.
-- **tests/**: Testing scripts and resources.
+## Features to Include
 
-## Features
-- Product Listings with sorting and filtering
-- User Authentication
-- Secure Payment Processing
-- Shopping Cart with real-time updates
-- Sustainable Practices Tracker
-- Personalized Recommendations
-- Live Chat Support
-- Loyalty Program
-- Mobile Optimization
-- Admin Analytics Dashboard
+### Mandatory Features
+1. Home Page
+2. Product Catalog
+3. Product Detail Pages
+4. Shopping Cart
+5. Checkout Process
+6. Contact Page
 
-## Milestones
-1. Initial Briefing
-2. Research and Planning
-3. Design Phase
-4. Development Phase
-5. Feature Implementation
-6. Testing and QA
-7. Launch Preparation
-8. Deployment
-9. Post-Launch Activities
+### Optional Features
+1. Search Functionality
+2. User Authentication
+3. Product Filters
+4. Wishlist
+
+## Helping Resources
+- *Tutorials*:
+  - [W3Schools Web Development Resources](https://www.w3schools.com/)
+  - [MDN Web Docs for HTML, CSS, and JavaScript](https://developer.mozilla.org/en-US/)
+- *Tools*:
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [GitHub for version control](https://github.com/)
+  - [Bootstrap for responsive design](https://getbootstrap.com/)
+  - [Stripe for payment integration](https://stripe.com/docs)
+
+## Rough Rubrics
+Your submission will be evaluated based on the following criteria:
+
+1. *Presentation (40%):*
+- Clarity and effectiveness of the video demo.
+- Ability to clearly explain the what, why, and how of the project.
+- Visual appeal and professional quality of the presentation materials.
+2. *Front-End/UI/UX (30%):*
+- User interface design and user experience. - Responsiveness and accessibility.
+- Visual consistency and aesthetic appeal.
+3. *Creativity and Innovation (20%):*
+- Uniqueness of the features.
+- Innovative approaches to problem-solving.
+- Alignment with HODLOK’s brand values and goals.
+4. *Backend (10%):*
+- Quality of coding and adherence to best practices.
+- Implementation of required backend functionalities such as payment integration and
+search/filter capabilities.
+- Integration with external APIs and systems.
+
+
+## Clone the repository:
+
+Clone https://github.com/Engombe23/hodlok-ecommerce-platform.git to your local machine
+
+## Contact
+For any queries or issues, please contact us at hodlokltd@outlook.com
