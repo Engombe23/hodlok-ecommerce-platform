@@ -43,21 +43,12 @@ Detailed information about Zylo and its product data can be found in the "ecomme
 Your submission will be evaluated based on the following criteria:
 
 1. *Presentation (40%):*
-- Clarity and effectiveness of the video demo.
-- Ability to clearly explain the what, why, and how of the project.
-- Visual appeal and professional quality of the presentation materials.
+
 2. *Front-End/UI/UX (30%):*
-- User interface design and user experience. - Responsiveness and accessibility.
-- Visual consistency and aesthetic appeal.
+
 3. *Creativity and Innovation (20%):*
-- Uniqueness of the features.
-- Innovative approaches to problem-solving.
-- Alignment with HODLOK’s brand values and goals.
-4. *Backend (10%):*
-- Quality of coding and adherence to best practices.
-- Implementation of required backend functionalities such as payment integration and
-search/filter capabilities.
-- Integration with external APIs and systems.
+
+4. *Backend (10%)*
 
 ## Clone the repository:
 
