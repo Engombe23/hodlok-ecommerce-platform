@@ -42,11 +42,11 @@ Detailed information about Zylo and its product data can be found in the "ecomme
 ## Rough Rubrics
 Your submission will be evaluated based on the following criteria:
 
-1. *Presentation (40%):*
+1. *Presentation (40%)*
 
-2. *Front-End/UI/UX (30%):*
+2. *Front-End/UI/UX (30%)*
 
-3. *Creativity and Innovation (20%):*
+3. *Creativity and Innovation (20%)*
 
 4. *Backend (10%)*
 
