@@ -61,7 +61,10 @@ search/filter capabilities.
 
 ## Clone the repository:
 
-Clone https://github.com/Engombe23/hodlok-ecommerce-platform.git to your local machine
+For cloning the repository onto the local machine, be sure to follow the link below. You will need to install Git and open Git Bash.
+
+Link for cloning the repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+Installing Git: https://git-scm.com/downloads
 
 ## Support and Queries
 For any questions or issues during the challenge, please contact us via the WhatsApp community: [WhatsApp Group](https://chat.whatsapp.com/Fhb16EuGGhp6TnO2GqadEG) or email us at info@jigsawcareers.com.
